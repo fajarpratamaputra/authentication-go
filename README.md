@@ -1,5 +1,3 @@
-Here's the cleaned up version of your README without using ```bash code blocks:
-
 # Authentication API with JWT (Echo v3 + dgrijalva/jwt-go)
 
 ## Description  
