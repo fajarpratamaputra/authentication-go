@@ -1,6 +1,5 @@
 Berikut adalah versi yang lebih rapi dan terstruktur untuk file README.md Anda:
 
-```markdown
 # Authentication API with JWT (Echo v3 + dgrijalva/jwt-go)
 
 ## Description
@@ -45,4 +44,3 @@ Supports login and JWT-protected profile endpoints.
 
 ## License
 MIT License © 2025
-```
